@@ -1,3 +1,5 @@
+//“adicionar”, “corrigir” ou “atualizar”.
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 200;
 let numeroSecreto = gerarNumeroAleatorio();
