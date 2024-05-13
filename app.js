@@ -1,7 +1,7 @@
 //“adicionar”, “corrigir” ou “atualizar”.
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 400;
+let numeroLimite = 300;
 
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
